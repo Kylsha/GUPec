@@ -1,0 +1,69 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/HBaMRAB3Qjk.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-layout-wrap-1 {margin-top: 60px; margin-bottom: 60px; position: relative}
+.u-section-1 .u-layout-cell-1 {min-height: 210px}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-line-1 {width: 912px; animation-duration: 1000ms; margin: 20px auto 0}
+.u-section-1 .u-text-1 {text-shadow: 0 -2px 8px rgba(0,0,0,1); animation-duration: 1000ms; margin: 20px 0 0}
+.u-section-1 .u-line-2 {width: 912px; animation-duration: 1000ms; margin: 30px auto 0}
+.u-section-1 .u-layout-cell-2 {min-height: 210px}
+.u-section-1 .u-container-layout-2 {padding: 30px}
+.u-section-1 .u-text-2 {font-size: 1.5rem; background-image: none; animation-duration: 1000ms; margin: 0 auto}
+.u-section-1 .u-btn-1 {border-style: none; animation-duration: 1000ms; box-shadow: 0 0 8px 0 rgba(128,128,128,1); margin: 80px auto 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-layout-cell-1 {min-height: 173px}
+.u-section-1 .u-line-1 {width: 880px}
+.u-section-1 .u-line-2 {width: 880px}
+.u-section-1 .u-layout-cell-2 {min-height: 173px} }
+
+@media (max-width: 991px){ .u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-line-1 {width: 660px}
+.u-section-1 .u-line-2 {width: 660px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-line-1 {width: 520px}
+.u-section-1 .u-line-2 {width: 520px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-line-1 {width: 320px}
+.u-section-1 .u-line-2 {width: 320px} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/WPWgg52k-Ro.jpg"); background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 100vh}
+.u-section-2 .u-layout-wrap-1 {margin: 60px auto 0 0}
+.u-section-2 .u-layout-cell-1 {min-height: 186px}
+.u-section-2 .u-container-layout-1 {padding: 30px}
+.u-section-2 .u-text-1 {background-image: none; font-size: 1.875rem; animation-duration: 1000ms; margin: 0 auto}
+.u-section-2 .u-layout-cell-2 {min-height: 186px}
+.u-section-2 .u-container-layout-2 {padding: 30px}
+.u-section-2 .u-text-2 {font-size: 1.875rem; animation-duration: 1000ms; margin: 0}
+.u-section-2 .u-layout-cell-3 {min-height: 186px}
+.u-section-2 .u-container-layout-3 {padding: 30px}
+.u-section-2 .u-text-3 {font-size: 1.875rem; animation-duration: 1000ms; margin: 0}
+.u-section-2 .u-layout-cell-4 {min-height: 186px}
+.u-section-2 .u-container-layout-4 {padding: 30px}
+.u-section-2 .u-text-4 {font-size: 1.875rem; animation-duration: 1000ms; margin: 0}
+.u-section-2 .u-btn-1 {border-style: none; animation-duration: 1000ms; margin: 189px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-2 {min-height: 100vh}
+.u-section-2 .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
+.u-section-2 .u-layout-cell-1 {min-height: 153px}
+.u-section-2 .u-layout-cell-2 {min-height: 153px}
+.u-section-2 .u-layout-cell-3 {min-height: 153px}
+.u-section-2 .u-layout-cell-4 {min-height: 153px} }
+
+@media (max-width: 991px){ .u-section-2 .u-layout-cell-1 {min-height: 100px}
+.u-section-2 .u-layout-cell-2 {min-height: 100px}
+.u-section-2 .u-layout-cell-3 {min-height: 100px}
+.u-section-2 .u-layout-cell-4 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-3 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-4 {padding-left: 10px; padding-right: 10px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/uIvm8seBOj4.jpg"); background-position: 50% 50%}
+.u-section-3 .u-sheet-1 {min-height: 100vh}
+.u-section-3 .u-text-1 {font-size: 3.75rem; animation-duration: 1000ms; margin: 60px auto 0}
+.u-section-3 .u-btn-1 {animation-duration: 1000ms; border-style: solid; margin: 189px auto 60px; padding: 10px 30px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-text-1 {margin-left: 15px; margin-right: 15px} }
+
+@media (max-width: 991px){ .u-section-3 .u-text-1 {margin-left: 0; margin-right: 0} }
